@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.system_generated/
+*.png
+*.mp4
+*.webp
+dist/
+build/
+*.js.map

@@ -1,0 +1,12 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A beautiful premium weather application demonstrating async/await in JS and TS.",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
