@@ -1,5 +1,6 @@
 # 🌤️ WeatherApp
 
+
 A modern, responsive web application that provides real-time weather forecasts, air quality metrics, and interactive weather visualizations based on user location or search queries.
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
